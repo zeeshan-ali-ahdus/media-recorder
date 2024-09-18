@@ -1,4 +1,5 @@
 "use client";
+import VideoRecorder from "@/components/canvas";
 import MediaRecorderComp from "@/components/mediaRecorder";
 // import VideoRecorder from "@/components/canvas";
 import VideoPlayer from "@/components/video-player";
